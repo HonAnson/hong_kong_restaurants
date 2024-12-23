@@ -1,2 +1,3 @@
 # hong_kong_restaurants
-list of restaurants I store in hong kong
+
+I store a list of restaurants I have eaten in Hong Kong here. I might or might not recommend them.
